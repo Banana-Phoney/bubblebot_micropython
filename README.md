@@ -21,7 +21,7 @@ parts list:
 
 
 Connection schematic 
-![Schematic](/pictures/Schematic.PNG)
+![Schematic](/pictures/Schematic.png)
 
 Picture from before "cleaning up cables" and heat shrinking.
 ![pre_cleanup](/pictures/pre_cleanup.jpg)
